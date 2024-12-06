@@ -33,7 +33,6 @@
 # print(str(i+1)+"Öğrenci için sınıf ortalaması: ",int(genelortalama))
 
 
-
 # toplam=0
 # adet=0
 
@@ -48,6 +47,7 @@
 # else:    
 #     ortalama=toplam/adet
 # print(ortalama)
+
 
 # while True:
 #     sayi=int(input("Bir sayı giriniz: "))
